@@ -4,15 +4,10 @@ body {
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-
+/*TITLES*/
 .head-title {
     font-size: 50px;
     font-weight: normal;
-}
-
-a {
-    color: aquamarine;
-    font-size: 16px;
 }
 
 .subtitle {
@@ -24,7 +19,14 @@ a {
     font-size: 21px;
     color: #808080;
 }
+/*LINKS*/
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
 
+
+/*IMAGES*/
 .phone_image {
     margin-top: 25px;
 }
@@ -36,5 +38,5 @@ a {
 footer {
     text-align: right;
     color: #808080;
-    font-size: 20px;
+    font-size: 21px;
 }
