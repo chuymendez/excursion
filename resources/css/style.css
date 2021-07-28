@@ -19,3 +19,8 @@ a {
     font-size: 42px;
     font-weight: 300;
 }
+
+.subtitle-description {
+    font-size: 21px;
+    color: #808080;
+}
