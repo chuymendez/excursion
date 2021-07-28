@@ -28,3 +28,13 @@ a {
 .phone_image {
     margin-top: 25px;
 }
+
+.end-title {
+    font-size: 42px;
+}
+
+footer {
+    text-align: right;
+    color: #808080;
+    font-size: 20px;
+}
